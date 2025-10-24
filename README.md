@@ -2,6 +2,10 @@
 
 Modul ini membimbing kamu membuat website portofolio profesional menggunakan **React**, **TailwindCSS**, **GitHub**, dan **Vercel** — dari nol sampai online.
 
+## 📱 Preview Website
+
+![Portfolio Preview](https://private-user-images.githubusercontent.com/174270943/505235080-40359668-ba49-42b2-af69-8cd5bd593c1f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzMDQyNzEsIm5iZiI6MTc2MTMwMzk3MSwicGF0aCI6Ii8xNzQyNzA5NDMvNTA1MjM1MDgwLTQwMzU5NjY4LWJhNDktNDJiMi1hZjY5LThjZDViZDU5M2MxZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQxMTA2MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MGI1MmNiMDA0ODBjY2VkMTVkZDQxZGMxZjZkYjIzYjVjZWFkMmM4ZjFmMzYxYjI5YTJkNTU1NjJjYzI3MDk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.X4RkV8B2dZcIUydTv-EL6pbn2kGIdkg5SXuf9-TJmAo)
+
 ---
 
 ## 🎯 Tujuan Akhir
