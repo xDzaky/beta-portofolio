@@ -1,6 +1,4 @@
-# Panduan Guru: Menjalankan Proyek React Portfolio
-
-Selamat datang! Ikuti langkah-langkah berikut seperti sedang berada di kelas. Kita akan memastikan lingkungan siap, menghubungkan Tailwind CSS, menulis komponen, kemudian menyimpan karya ke GitHub dan akhirnya mengirimnya ke Vercel.
+# Panduan Membuat dari awal
 
 ## 1. Pastikan Alat Dasar Terpasang
 - Cek versi Node.js dan npm:
