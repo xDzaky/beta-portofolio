@@ -14,23 +14,53 @@
   Jika belum ada, install dari https://git-scm.com/downloads sesuai sistem operasi kamu.
 
 ## 2. Menyiapkan Proyek React
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/<username>/my-portfolio.git
-   cd my-portfolio
-   ```
-   (Ganti `<username>` dengan nama akun GitHub pemilik repositori.)
-2. Instal dependensi proyek:
-   ```bash
-   npm install
-   ```
-3. Jalankan server pengembangan untuk memastikan semuanya berjalan:
-   ```bash
-   npm start
-   ```
-   Aplikasi akan tampil di http://localhost:3000.
+🚀 **Modul: Membangun Portofolio Pribadi dengan React, GitHub, dan Vercel**  
+Modul ini membimbing kamu membuat website portofolio profesional menggunakan React, TailwindCSS, GitHub, dan Vercel — dari nol sampai online.
 
-## 3. Menghubungkan Tailwind CSS dengan React
+🎯 **Tujuan Akhir**  
+Website portofolio online dengan domain:
+
+```
+https://namamu.vercel.app
+```
+
+🧱 **1. Persiapan Awal**
+
+🔧 **Install yang Dibutuhkan**  
+Pastikan sudah terpasang:
+- Node.js (versi LTS)
+- Git
+- Text editor seperti VS Code
+
+Cek versi:
+
+```bash
+node -v
+git --version
+```
+
+⚙️ **2. Membuat Project React**
+
+**A. Buat Project Baru**
+```bash
+npx create-react-app my-portfolio
+```
+
+**B. Masuk ke folder project:**
+```bash
+cd my-portfolio
+```
+
+**C. Jalankan:**
+```bash
+npm start
+```
+
+Browser akan terbuka di http://localhost:3000
+
+🎨 **3. Menghubungkan Tailwind CSS dengan React**  
+Ikuti langkah berikut agar Tailwind aktif di project hasil `create-react-app`.
+
 1. Tambahkan Tailwind CSS sebagai devDependency:
    ```bash
    npm install -D tailwindcss
@@ -209,4 +239,3 @@ export default function App() {
 4. Klik **Deploy** dan tunggu hingga Vercel menampilkan URL produksi kamu.
 
 Selamat! Kamu sudah berhasil menyiapkan, mengembangkan, dan menerbitkan portfolio React lengkap dengan Tailwind CSS. Terus eksplorasi dan ajak siswa untuk memodifikasi komponen agar karya mereka semakin menarik.
-
